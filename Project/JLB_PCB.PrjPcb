@@ -131,7 +131,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UACBRLVJ
 
 [Document6]
 DocumentPath=..\Schematic\Supply_Protection.SchDoc
@@ -607,7 +607,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KKPHVITB
 
 [Document34]
 DocumentPath=..\Libraries\Rotary\MCRM3HAF-10R-V-B.SchLib
@@ -641,7 +641,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DSKJVOWY
 
 [Document36]
 DocumentPath=..\Libraries\Switch\100SP1T1B1M2QEH.SchLib
@@ -1397,6 +1397,12 @@ Type127=1
 Type128=1
 Type129=1
 Type130=1
+Type131=1
+Type132=1
+Type133=1
+Type134=1
+Type135=1
+Type136=1
 
 [Difference Levels]
 Type1=1
@@ -1594,6 +1600,7 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
+MultiChannelAlternate=0
 AlternateItemFail=3
 Type122=2
 Type123=1

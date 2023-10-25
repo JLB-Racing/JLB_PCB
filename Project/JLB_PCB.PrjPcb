@@ -694,6 +694,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LRLSDUUG
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for JLB_PCB\Design Rule Check - JLB_PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
